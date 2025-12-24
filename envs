@@ -1,0 +1,8 @@
+# Gateway AI API information
+API_KEY = "mIkJygZxWNu4MUGMUtSeZOZ78Op1rP8pRbaeCBKbGQDHTaGA"
+API_SECRET = "gHJDQZ4swGglU7AChIj9BKOhiAK7RbTvT4pFr8pY9epor0A4AZtaNHPKXzWpTDOf"
+BASE_URL = "https://connect-wan.fiservapis.com/ai-gateway/v1"
+
+# Proxy corporativo
+HTTP_PROXY = "http://fdcproxy.1dc.com:8080/accelerated_pac_base.pac/"
+HTTPS_PROXY = "http://fdcproxy.1dc.com:8080/accelerated_pac_base.pac/"
